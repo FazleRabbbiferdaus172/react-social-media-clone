@@ -14,7 +14,7 @@
 - Signup
 - Create Post
 - Like Post
-- Unline Post
+- Unlike Post
 - Delete Post
 - View Profile
 - Edit Profile
